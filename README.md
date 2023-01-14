@@ -7,7 +7,7 @@ Una forma divertida de poner en práctica algunos conocimientos de Vue:
 
 -  Comunicación entre componentes
 
--  Pprops
+-  Props
 
 - $emit
 
