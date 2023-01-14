@@ -3,7 +3,7 @@
 ## Descripción
 Juego sencillo simón dice con VUE 3
 
-Una forma diverdita de poner en práctica algunos conocimientos de Vue:
+Una forma divertida de poner en práctica algunos conocimientos de Vue:
 
 -  Comunicación entre componentes
 
